@@ -1,0 +1,10 @@
+{
+    "templates":[
+        {
+            "name":"vue2-component",
+            "type":"file",
+            "desc":"vue2组件模板",
+            "path":"vue2-component.vue"
+        }
+    ]
+}
