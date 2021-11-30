@@ -3,8 +3,26 @@
         {
             "name":"vue2-component",
             "type":"file",
-            "desc":"vue2组件模板",
+            "desc":"vue2组件基本结构",
             "path":"vue2-component.vue"
+        },
+        {
+            "name":"vue-admin-template:table",
+            "type":"file",
+            "desc":"vue-admin-template后台管理系统的table模块",
+            "path":"vue-admin-template/table"
+        },
+        {
+            "name":"vue-admin-template:form",
+            "type":"file",
+            "desc":"vue-admin-template后台管理系统的form模块",
+            "path":"vue-admin-template/form"
+        },
+        {
+            "name":"vue-admin-template:tree",
+            "type":"file",
+            "desc":"vue-admin-template后台管理系统的tree模块",
+            "path":"vue-admin-template/tree"
         }
     ]
 }
